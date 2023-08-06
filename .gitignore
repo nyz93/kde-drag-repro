@@ -1,0 +1,5 @@
+dragtest
+clipboard/main.o
+clipboard/test
+clipboard/Makefile
+clipboard/.*
